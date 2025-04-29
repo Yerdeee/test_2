@@ -7,12 +7,6 @@ print("hello_yes")
 print("hello_yes")
 print("hello_yes")
 
-print("hello_yes")
-print("hello_yes")
-print("hello_yes")
-print("hello_yes")
-print("hello_yes")
-print("hello_change")
 
 print("bbbb")
 print("cccc")
