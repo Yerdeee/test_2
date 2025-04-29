@@ -7,7 +7,7 @@ print("hello_yes")
 print("hello_yes")
 print("hello_yes")
 
-
+print("김현민 예쁨")
 print("bbbb")
 print("cccc")
 
